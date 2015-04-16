@@ -1,0 +1,3 @@
+#ignore packages installed in the node modules.
+node_modules
+*~
